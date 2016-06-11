@@ -1,0 +1,57 @@
+[{
+    "header": "// Padding",
+    "prefix": "layout-p-",
+    "rules": ["padding"]
+}, {
+    "header": "// Padding Top",
+    "prefix": "layout-pt-",
+    "rules": ["padding-top"]
+}, {
+    "header": "// Padding Right",
+    "prefix": "layout-pr-",
+    "rules": ["padding-right"]
+}, {
+    "header": "// Padding Bottom",
+    "prefix": "layout-pb-",
+    "rules": ["padding-bottom"]
+}, {
+    "header": "// Padding Left",
+    "prefix": "layout-pl-",
+    "rules": ["padding-left"]
+}, {
+    "header": "// Padding Y (Top and Bottom)",
+    "prefix": "layout-py-",
+    "rules": ["padding-top", "padding-bottom"]
+}, {
+    "header": "// Padding X (Left and Right)",
+    "prefix": "layout-px-",
+    "rules": ["padding-left", "padding-right"]
+}, {
+    "header": "// Margin",
+    "prefix": "layout-m-",
+    "rules": ["margin"]
+}, {
+    "header": "// Margin Top",
+    "prefix": "layout-mt-",
+    "rules": ["margin-top"]
+}, {
+    "header": "// Margin Right",
+    "prefix": "layout-mr-",
+    "rules": ["margin-right"]
+}, {
+    "header": "// Margin Bottom",
+    "prefix": "layout-mb-",
+    "rules": ["margin-bottom"]
+}, {
+    "header": "// Margin Left",
+    "prefix": "layout-ml-",
+    "rules": ["margin-left"]
+}, {
+    "header": "// Margin Y (Top and Bottom)",
+    "prefix": "layout-my-",
+    "rules": ["margin-top", "margin-bottom"]
+}, {
+    "header": "// Margin X (Left and Right)",
+    "prefix": "layout-mx-",
+    "rules": ["margin-left", "margin-right"]
+}]
